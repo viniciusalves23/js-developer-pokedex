@@ -1,0 +1,162 @@
+.p_egg_group{
+    text-transform: capitalize;
+}
+
+.div_progress progress {
+    margin-left: 40px ;
+    width: 245px ;
+}
+
+progress {
+    margin-top: 3px;
+    margin-bottom: 14px; 
+}
+
+.p_habilidades {
+    text-transform: capitalize;
+}
+
+.modal-content {
+    border-radius: 40px !important;
+}
+
+.modal-title {
+    display: none !important;
+}
+
+.modal-header {
+    border: none !important;
+    height: 0 !important;
+    border-radius: 100px 100px 0 0 !important;
+    padding-right: 1rem !important;
+}
+
+.close {
+    color: #fff !important;
+    line-height: 0 !important;
+    font-size: 30px !important;
+}
+
+.tab-content {
+    padding: 0;
+}
+
+.modal-body {
+    padding: 0 !important;
+    border-radius: 0 0 40px 40px !important;
+}
+
+.header {
+    position: relative ;
+}
+
+.abas {
+    background-color: white;
+    border-radius: 40px;
+    padding: 2rem;
+}
+
+.pokemon-details {
+    padding: 0 2rem;
+    position: relative;
+    height: 100px;
+    margin-bottom: 20px ;
+    color: #fff;
+}
+
+.pokemon-details .detail {
+    display: inline-block ;
+    flex-direction: row ;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.title {
+    font-size: 40px;
+}
+
+.tipos {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 10px;
+}
+
+.tipo {
+    text-transform: capitalize;
+    display: inline-block;
+    margin-right: 2px;
+    color: #fff;
+    font-size: 13px;
+    border-radius: 1rem;
+    filter: brightness(1.1);
+    text-align: center;
+    padding: 0.1rem 1rem;
+}
+
+.div_id {
+    position: absolute;
+    margin-top: 40px;
+    top: 0;
+    right: 0;
+    transform: translateY(-50%);
+    padding-right: 2rem;
+}
+
+.number {
+    font-size: 20px;
+    color: #fff;
+}
+
+.pokemon-img {
+    position: relative;
+    margin-bottom: 170px;
+    margin-top: 70px;
+}
+
+.pokemon-img img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 200px;
+    width: auto;
+    margin-top: 20px;
+}
+
+.tab-content {
+    margin-top: 20px;
+}
+
+strong {
+    color: #bbbcc0;
+}
+
+.breeding {
+    color: #000000 !important;
+    font-size: 18px;
+}
+
+.row {
+    margin-left: 8px !important;
+}
+
+.row strong {
+    margin-right: 20px;
+}
+
+.flex-grow-1-title .text-left {
+    width: 110px;
+}
+
+.evolution {
+    color: #000 !important;
+}
+
+.pokemon-evolution {
+    text-align: center;
+}
+
+.img_evolution {
+    height: 80px;
+    width: auto;
+}

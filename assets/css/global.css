@@ -1,21 +1,35 @@
-* {
+*{
     font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
 }
 
 body {
-    background-color: #f6f8fc;
+    margin: 0;
+    padding: 0;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size:contain;
 }
 
-.content {
+h1 {
+    color:#fff;
+    text-align: center;
+    
+}
+
+h2{
+    text-transform: capitalize;
+}
+
+.content{
     width: 100vw;
     height: 100vh;
     padding: 1rem;
-    background-color: #fff;
 }
 
 @media screen and (min-width: 992px) {
-    .content {
+    .content{
         max-width: 992px;
         height: auto;
         margin: 1rem auto;
